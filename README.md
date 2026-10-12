@@ -2,9 +2,7 @@
 
 ## Description
 
-This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane
-
-using input values and a math library.
+The user types in the X and Y coordinates for Point 1 and Point 2. The program then checks to make sure the inputs are valid numbers and uses a built-in math library to find the exact distance between them.
 
 ## How to Run
 
@@ -42,4 +40,4 @@ The distance between the two points is: 7.07
 
 Name: Jared Herana
 
-Section: 8 Dahlia
+Section: 8-Dahlia
